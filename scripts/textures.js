@@ -60,15 +60,15 @@ let waterTexture = texture('images/water.jpg');
 
 let bubbleTexture = texture('images/bubble.png');
 
-let grayFishTexture = texture('images/grayfish.png');
+let grayFishTexture = texture('images/grayFish.png');
 
-let pinkFishTexture = texture('images/pinkfish.png');
+let pinkFishTexture = texture('images/pinkFish.png');
 
-let tealFishTexture = texture('images/tealfish.png');
+let tealFishTexture = texture('images/tealFish.png');
 
-let blueFishTexture = texture('images/bluefish.png');
+let blueFishTexture = texture('images/blueFish.png');
 
-let smallFishTexture = texture('images/smallfish.png');
+let smallFishTexture = texture('images/smallFish.png');
 
 let coinTexture = texture('images/coin.png');
 
